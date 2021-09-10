@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "442584985336",
+    "project_id": "pakistan-3866e",
+    "storage_bucket": "pakistan-3866e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442584985336:android:f37952a5fb5f3fcdea550d",
+        "android_client_info": {
+          "package_name": "com.example.pak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442584985336-a73ek3t6fdq8m47lbo1fq06rge1jdenn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWGmDIIc0vgxh0m1wjFEhvOixotaBdqro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442584985336-a73ek3t6fdq8m47lbo1fq06rge1jdenn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
